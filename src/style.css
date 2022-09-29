@@ -1,4 +1,5 @@
-.page-1 {
-    background: url("../src/images/page-1.png");
-    
+
+body {
+    overflow-x: hidden;
+
 }
