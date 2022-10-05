@@ -1,5 +1,8 @@
-.navbar-brand {
 
-color: #F6F5F6;
- 
-}
+.navbar-right { 
+padding-top: 0.2%;
+    margin-right: -2005px;
+    background-color: #f6f5f6;
+    border-bottom: 2px solid black;
+   
+ }
