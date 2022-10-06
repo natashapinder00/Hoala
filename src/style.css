@@ -1,24 +1,19 @@
 .navbar {
   background-color: #f6f5f6;
   border-bottom: 2px solid black;
-
-margin-right: -79%;
-
-
+  margin-right: -79%;
 }
  
 
 
-
 body {
    overflow-x: hidden;
-
 }
+
+
 .bg-img {
   border-bottom: 8px solid #9c7c6d;
 }
-
-
 
 
 .homepage-contact-button {
@@ -38,9 +33,7 @@ body {
    border-radius: 1px;
    padding: 20px 30px;
    border-color: white;
-   
-   border-width: 4px;
-  
+   border-width: 4px;  
   
 }
 
@@ -48,12 +41,12 @@ body {
    background: white;
    box-shadow: none;
    border-color: white;
-   
    border-width: 4px;
    transition: 0.7s;
    color: black;
 
 }
+
 
 p {
    color:white;
